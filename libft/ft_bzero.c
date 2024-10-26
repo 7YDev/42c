@@ -6,9 +6,11 @@
 /*   By: ybouanan <ybouanan@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/22 09:16:15 by ybouanan          #+#    #+#             */
-/*   Updated: 2024/10/23 11:24:31 by ybouanan         ###   ########.fr       */
+/*   Updated: 2024/10/26 10:18:52 by ybouanan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#incldue <li>
 
 void	ft_bzero(void *s, size_t n)
 {
